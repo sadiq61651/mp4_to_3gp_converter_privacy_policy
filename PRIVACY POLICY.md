@@ -2,26 +2,23 @@ Privacy Policy for MP4 to 3GP Converter
 
 1. Information Collected
 
-MP4 to 3GP Converter, developed by M.Sadiq, may collect non-personal information, including device identifiers, IP addresses, usage data, and video data, for the purpose of delivering targeted advertisements.
-
-Video Data Collection:
-This includes the MP4 files selected by the user for conversion to 3GP format. The app processes and stores these video files locally on the user's device. No video data is transmitted to external servers.
+MP4 to 3GP Converter, developed by M. Sadiq, may collect non-personal information for the purpose of delivering targeted advertisements. This may include device identifiers, IP addresses, usage data, and video data, for the conversion of MP4 files into 3GP format.
 
 2. Purpose of Data Collection
 
-The primary purposes of collecting and processing video data are to convert MP4 files into 3GP video format and to deliver targeted advertisements. Additionally, the app integrates advertising services such as Google Mobile Ads and AdMob, which may also collect and process data as described in their respective privacy policies.
+The primary purposes of collecting and processing video data are to convert MP4 files into 3GP video format, to deliver targeted advertisements, and to support advertising services such as AdMob. AdMob may also collect and process data as described in its privacy policy, which can be reviewed [here](https://policies.google.com/privacy).
 
 3. Data Storage
 
-All data processed by the app, including video files, is stored locally on the user's device. The app does not upload, transfer, or store any data on external servers or cloud storage.
+All data processed by the app, including video files, ad-related information (such as device identifiers and ad interaction data), and usage data, is stored locally on the user's device. It's important to note that AdMob, as the advertising service integrated into the app, may also store ad-related data locally on the user's device in accordance with its [privacy policy](https://policies.google.com/privacy).
 
 4. User Consent
 
-By using the MP4 to 3GP Converter app, users consent to the collection and processing of non-personal information, including video data, for the purposes described in this privacy policy.
+By using the MP4 to 3GP Converter app, users consent to the collection and processing of non-personal information, including video data and ad-related information, for the purposes described in this privacy policy.
 
-5. Feedback and Support
+5. Contact Information
 
-If users have feedback or encounter issues with the MP4 to 3GP Converter app, they are encouraged to provide feedback through the app or contact M. Sadiq at sadiqkhan61651@email.com.
+If users have any questions or require assistance regarding the privacy policy or the app's functionality, they are encouraged to contact M. Sadiq at sadiqkhan61651@gmail.com.
 
 6. Changes to the Privacy Policy
 
